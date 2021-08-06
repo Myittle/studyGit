@@ -1,2 +1,1 @@
-const a = 123;
-const b = 456
+console.log("小马明天早上吃面条")
